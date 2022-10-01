@@ -3,5 +3,10 @@ this is my first repo
 second change
 
 third change
+<<<<<<< HEAD
  
 fourth change
+=======
+
+\four
+>>>>>>> feature
